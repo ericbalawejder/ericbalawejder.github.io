@@ -59,6 +59,6 @@ techniques. Discusses current progress, results, roadblocks and outlines future 
 
 ***Peer Reviewed Publications:***
 
-* Eric Balawejder, Tyler Traub, Richard Burns. *[Exploring the Automatic Recognition of Pie Chart Information Messages](/content/pacise16.pdf)*. In Proceedings of the 31st Annual Conference of The Pennsylvania Association of Computer and Information Science Educators, pp. 52-58, 2016.
-* Richard Burns, Eric Balawejder, Wiktoria Domanowska, Stephanie Elzer Schwartz, Sandra Carberry. *[Exploring the Types of Messages that Pie Charts Convey in Popular Media](/content/diagrams16.pdf)*. In Proceedings of the Ninth International Conference on the Theory and Application of Diagrams, pp. 265-271, 2016.
+* Eric Balawejder, Tyler Traub, Richard Burns. *[Exploring the Automatic Recognition of Pie Chart Information Messages](/assets/pacise16.pdf)*. In Proceedings of the 31st Annual Conference of The Pennsylvania Association of Computer and Information Science Educators, pp. 52-58, 2016.
+* Richard Burns, Eric Balawejder, Wiktoria Domanowska, Stephanie Elzer Schwartz, Sandra Carberry. *[Exploring the Types of Messages that Pie Charts Convey in Popular Media](/assets/diagrams16.pdf)*. In Proceedings of the Ninth International Conference on the Theory and Application of Diagrams, pp. 265-271, 2016.
 

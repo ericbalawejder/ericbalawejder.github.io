@@ -2,6 +2,7 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+*.DS_Store
 vendor
 _posts/2020-01-21-welcome-to-jekyll.markdown
 how_to_run.md
