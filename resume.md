@@ -18,7 +18,7 @@ permalink: /resume/
 * Instructed students in grades 5 through 12 with Mathnasium, personal and SAT prep curriculum.
 * Adapted to student’s personality, asses their feedback and modify instructional methods for their learning style.
 
-*Graduate Assistant. [West Chester University](https://www.wcupa.edu/). January 2015 to December 2016*
+*[Graduate Assistant](https://www.wcupa.edu/_admissions/sch_dgr/assistantships.aspx). [West Chester University](https://www.wcupa.edu/). January 2015 to December 2016*
 * Paid position responsible for contributing to research, under advisor Dr. Richard Burns, in artificial
 intelligence on a project for exploring the automatic recognition of information graphic messages.
 * Goal of the project was to understand the information conveyed in ​multimodal documents and have a computer
@@ -50,11 +50,11 @@ techniques. Discusses current progress, results, roadblocks and outlines future 
 ***Education​:***<br>
 
 [West Chester University](https://www.wcupa.edu/), West Chester, PA.<br>
-*Master of Science in Computer Science*, December 2016. GPA 3.5.<br>
+*[Master of Science in Computer Science](https://www.wcupa.edu/sciences-mathematics/computerScience/masters.aspx)*, December 2016. GPA 3.5.<br>
 [Professional Development Certificate in Computer Security](https://www.wcupa.edu/sciences-mathematics/computerScience/profDevelopment.aspx#computerSecurity).<br>
 
 [Temple University](https://www.temple.edu/), Philadelphia, PA.<br>
-*Bachelor of Science in Mathematics*.<br>
+*[Bachelor of Science in Mathematics](https://bulletin.temple.edu/undergraduate/science-technology/mathematics/mathematics-bs/#requirementstext)*.<br>
 
 
 ***Peer Reviewed Publications:***
