@@ -98,6 +98,7 @@ Calmly tell them what they could do to improve and how I could help them.
 
 `23) What is your greatest failure, and what did you learn from it?`<br>
 My greatest failure was not understanding how much blind luck actually effects your path in life.
+I learned that nepotism will take you far.
 
 `24) How do you handle working with people who annoy you?`<br>
 By avoiding most interactions. You can't reason with toxic people about their behavior.
@@ -146,8 +147,9 @@ complexity multipliers. Driving engineers to an arbitrary date is a value destro
 `34) What salary are you seeking?`<br>
 I was always told to start at $1 and never be the first person to throw out a number. The idea is to
 waste as much of your time as possible. Then, get you to make me an offer and then negotiate your low
-ball salary number into the market rate range found on Glassdoor and Levels.fyi because it's too
-expensive for you to let me walk away.
+ball salary number into the market rate range found on
+[Glassdoor](https://www.glassdoor.com/Salaries/index.htm) and [Levels.fyi](https://www.levels.fyi/)
+because it's too expensive for you to let me walk away.
 
 `35) What's your salary history?`<br>
 This is a common wage suppession question and is illegal in some states.
@@ -238,7 +240,8 @@ Not chasing carrots that people hold over my head.
 To not give you discriminatory information about me.  
 
 `67) What are your lifelong dreams?`<br>
-To be head of an HR department one day in charge of creating interview questions.  
+To be head of an HR department one day in charge of creating interview questions. To let my personal
+bias and emotions help influence my decisions.  
 
 `68) What do you ultimately want to become?`<br>
 Wealthy enough to not die poor. 
