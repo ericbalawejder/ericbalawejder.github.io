@@ -17,7 +17,7 @@ I decided to get some practice.
 ### Basic interview questions:
 
 `1) Tell me about yourself.`<br>
-I'd rather not. I kind of need this job.
+I'd rather not. I kind of want this job.
 
 `2) What are your strengths?`<br>
 I'm motivated to understand how things work.
@@ -48,7 +48,7 @@ Not learning anything from my work.
 Working autonomously on a technical task that was important to the business.
 
 `11) What can you do for us that other candidates can't?`<br>
-I didn't assess the other candidates and feel it's best not to give a cookie cutter response.
+I can do more Leetcode problems and devalue myself more.
 
 `12) What were the responsibilities of your last position?`<br>
 It was an unrelated role. They involved under cutting other peoples labor. A race to the bottom
@@ -79,7 +79,7 @@ Why did you respond to my application?
 `18) What was the last project you led, and what was its outcome?`<br>
 I led a research project during graduate school. Although the outcome of the tool wasn't 
 spectacular, the process outcome was very valuable. Working as a team, adapting to different
-personalities and sharing knowledge through out the project building process was very gratifying.
+personalities and sharing knowledge through out the project building process was very rewarding.
  
 `19) Give me an example of a time that you felt you went above and beyond the call of duty at
 work.`<br>
@@ -145,9 +145,9 @@ complexity multipliers. Driving engineers to an arbitrary date is a value destro
 ### Salary questions:
 
 `34) What salary are you seeking?`<br>
-I was always told to start at $1 and never be the first person to throw out a number. The idea is to
-waste as much of your time as possible. Then, get you to make me an offer and then negotiate your low
-ball salary number into the market rate range found on
+I was always told to never be the first person to throw out a number. If the application form requires
+input, I put $1. The idea is to waste as much of your time as possible. Then, get you to make me an
+offer and then negotiate your low ball salary number into the market rate range found on
 [Glassdoor](https://www.glassdoor.com/Salaries/index.htm) and [Levels.fyi](https://www.levels.fyi/)
 because it's too expensive for you to let me walk away.
 
@@ -168,7 +168,7 @@ Software engineer IV.
 
 `37) What are you looking for in terms of career development?`<br>
 To do the best work I can, for it's own sake. To be creative and not follow others. Not cutting
-corners for efficiency. Say no to things I would rather not do and never push something I know it
+corners for efficiency. Say no to things I would rather not do and never push something I know is
 defective. 
 
 `38) How do you want to improve yourself in the next year?`<br>
@@ -281,7 +281,7 @@ That an education doesn't lead to a career and hard work doesn't lead to success
 
 `80) Why did you choose your major?`<br>
 I like to understand how things work and all explainable things in the universe can be mapped to a
-concept from mathematics. 
+mathematical concept. 
 
 `81) What will you miss about your present/last job?`<br>
 Helping the people I worked with.  
