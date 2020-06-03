@@ -4,6 +4,14 @@ title: Resume
 permalink: /resume/
 ---
 
+<p align="center">
+  <b>Eric Balawejder</b><br>
+  Philadelphia, PA<br>
+  <a href = "mailto: eric.balawejder@protonmail.com">eric.balawejder@protonmail.com</a><br>
+  GitHub: <a href="https://github.com/ericbalawejder">ericbalawejder</a>
+</p>
+
+------------------------------------------------------------------------------------------------------------------------------------------------<br>
 ***Technology​:***
 * ***Programming languages:*** Java 11, Ruby
     * Basic knowledge of: C, C++, Bash, R, Kotlin, Python, MySQL
