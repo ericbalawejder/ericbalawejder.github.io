@@ -11,13 +11,16 @@ I was scrolling Twitter the other night, and this ad popped up in my feed.
 
 This was a well placed ad in response to the mass unemployement moving across the country from
 the covid-19 fallout. The topic of interviewing will no doubt be a popular one in the coming times.
-I decided to get some practice.
+With a beer in hand, I decided to get some practice.
 
 
 ### Basic interview questions:
 
 `1) Tell me about yourself.`<br>
-I'd rather not. I kind of want this job.
+My math degree taught me how to add. My CS degree gave me the knowledge to do fizzbuzz. My computer
+security certificate showed me the difference between http and https and my research papers taught me
+how to write a complete sentence when communicating. I'm confident I can bring my skills to this
+company and help you solve your problems.
 
 `2) What are your strengths?`<br>
 I'm motivated to understand how things work.
@@ -48,7 +51,7 @@ Not learning anything from my work.
 Working autonomously on a technical task that was important to the business.
 
 `11) What can you do for us that other candidates can't?`<br>
-I can do more Leetcode problems and devalue myself more.
+I can do more Leetcode problems to commodify my labor and devalue myself more.
 
 `12) What were the responsibilities of your last position?`<br>
 It was an unrelated role. They involved under cutting other peoples labor. A race to the bottom
