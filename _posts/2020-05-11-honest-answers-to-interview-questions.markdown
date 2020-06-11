@@ -72,10 +72,9 @@ It's usually a cover for e-commerce work.
 If the price is right, Bob.
 
 `17) Do you have any questions for me?`<br>
-What part of your job would you do if you didn't get paid?
-
-Why did you respond to my application?
-
+Using only this crusty old whiteboard marker with barely any ink, can you please code up the
+implementation of quicksort for linked lists that is, apparently, so critical to you production
+environment?
 
 ### Behavioral interview questions:
 
