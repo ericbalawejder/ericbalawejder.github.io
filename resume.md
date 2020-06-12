@@ -14,8 +14,8 @@ permalink: /resume/
 ------------------------------------------------------------------------------------------------------------------------------------------------<br>
 ***Technology​:***
 * ***Programming languages:*** Java 11, Ruby
-    * Basic knowledge of: C, C++, Bash, R, Kotlin, Python, MySQL
-* ***Development tools:*** Spring, Dropwizard, Maven, Gradle, Docker, JUnit, Mockito, Git, IntelliJ, Rails
+    * Basic knowledge of: C, C++, Bash, R, Kotlin, Python
+* ***Development tools:*** Spring, Dropwizard, Hibernate, MySQL, Maven, Gradle, Docker, JUnit, Mockito, Git, IntelliJ, Rails
 * ***Operating Systems:*** OS X, Linux
 * ***RDBMS:*** MySQL, ​PostgreSQL
 
