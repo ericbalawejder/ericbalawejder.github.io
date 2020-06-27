@@ -279,7 +279,12 @@ Losing my health.
 Not realizing how important nepotism, networking and luck were earlier in life.   
 
 `79) What's the most important thing you learned in school?`<br>
-That an education doesn't lead to a career and hard work doesn't lead to success. 
+An education doesn’t lead to a career and hard work doesn’t lead to success. These are two fallacies of
+academia. The idea that anything is possible if you work hard enough is unfortunately a dangerous
+delusion. Life is more random than it seems and favorable outcomes are more often attributable to
+making good bets rather than a good work ethic. Don’t sacrifice more than it’s worth. Nepotism,
+networking and luck play a large role in the outcomes of our lives. You can do everything right and
+still lose.  
 
 `80) Why did you choose your major?`<br>
 I like to understand how things work and all explainable things in the universe can be mapped to a
