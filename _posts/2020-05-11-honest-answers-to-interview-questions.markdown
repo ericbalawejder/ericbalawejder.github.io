@@ -224,7 +224,7 @@ Detail-oriented.
 Getting an education with no debt.  
 
 `61) Who was your favorite manager and why?`<br>
-I'll get back to you...  
+Bill. He was in on the scheme, if you know what I mean.
 
 `62) What do you think of your previous boss?`<br>
 You know what they say: Most people don't leave the job, they leave management.
