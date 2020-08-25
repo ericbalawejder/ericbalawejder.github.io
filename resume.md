@@ -4,6 +4,13 @@ title: Resume
 permalink: /resume/
 ---
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My skills are focused primarily in Java for of the large enterprise market in financial services, telecom, pharmaceuticals, FAANG and 3/4 of the world’s smart phones being Android. I’m interested in backend and mobile development for FTE and contract roles. My current position is an entrepreneurial repair role centered around off road motorcycle repair.
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <p align="center">
   <b>Eric Balawejder</b><br>
   Philadelphia, PA<br>
