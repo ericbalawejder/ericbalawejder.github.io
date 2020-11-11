@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My skills are focused primarily in Java for the large enterprise market in financial services, telecom, pharmaceuticals, FAANG and 3/4 of the world’s smart phones being Android. I’m interested in backend and mobile development for FTE and contract roles. My current position is an entrepreneurial repair role centered around the right to repair of off road motorcycles.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My skills are focused primarily in Java. I’m interested in backend and mobile development for FTE and contract roles. My current position is an entrepreneurial repair role centered around the right to repair of off road motorcycles.
 <br>
 <br>
 <br>
@@ -22,7 +22,7 @@ permalink: /resume/
 ***Technology​:***
 * ***Programming languages:*** Java 11, Ruby
     * Basic knowledge of: C, C++, Bash, R, Kotlin, Python
-* ***Development tools:*** Spring, Dropwizard, Hibernate, MySQL, Maven, Gradle, Docker, JUnit, Mockito, Git, IntelliJ, Rails
+* ***Development tools:*** Spring, Spring Boot, Dropwizard, Hibernate, MySQL, Maven, Gradle, CircleCI, Docker, JUnit, Mockito, Git, IntelliJ, Rails
 * ***Operating Systems:*** OS X, Linux
 * ***RDBMS:*** MySQL, ​PostgreSQL
 
