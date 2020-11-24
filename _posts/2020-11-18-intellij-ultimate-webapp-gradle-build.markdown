@@ -11,11 +11,11 @@ I keep getting burned every time I create a new Java webapp project in IntelliJ.
 
 <br>
 Initial setup structure.
-![project structure](/assets/project-structure.png)
+![project structure](/assets/intellij/project-structure.png)
 
 
 Adding Tomcat configuration with the exploded war artifact.
-![server setup](/assets/server-setup.png)
+![server setup](/assets/intellij/server-setup.png)
 
 
 The war file can not be found with the default gradle build setting.
@@ -25,11 +25,11 @@ The war file can not be found with the default gradle build setting.
 Select the following menu settings:
 <br>
 `IntelliJ IDEA -> Preferences -> Build, Execution, Deployment -> Build Tools -> Gradle`
-![gradle default](/assets/gradle-default.png)
+![gradle default](/assets/intellij/gradle-default.png)
 
 
 Change to build and run with IntelliJ.
-![build with intellij](/assets/build-with-intellij.png)
+![build with intellij](/assets/intellij/build-with-intellij.png)
 
 ```
 Connected to server

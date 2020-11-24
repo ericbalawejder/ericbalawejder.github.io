@@ -365,7 +365,7 @@ I need you write down your opinion of me.
 
 `104) If you were an animal, which one would you want to be?`<br>
 
-![face palm](/assets/face_palm.png)
+![face palm](/assets/interview-questions/face_palm.png)
 
 `105) Why is there fuzz on a tennis ball?`<br>
 To slow it down
@@ -375,12 +375,12 @@ Ground Hog day 2.0
 
 `107) If you could get rid of any one of the US states, which one would you get rid of and why?`<br>
  
-![stupid](/assets/stupid.jpeg)
+![stupid](/assets/interview-questions/stupid.jpeg)
 
 `108) With your eyes closed, tell me step-by-step how to tie my shoes.`<br>
 .<br>
 .<br>
 .<br>
 
-![Imma head out](/assets/imma_head_out.jpg)
+![Imma head out](/assets/interview-questions/imma_head_out.jpg)
 
