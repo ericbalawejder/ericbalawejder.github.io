@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My skills are focused primarily in Java. I’m interested in backend and mobile development for FTE and contract roles. My current position is an entrepreneurial repair role centered around the right to repair of off road motorcycles.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My skills are focused primarily in Java. I’m interested in backend, mobile development and info security for FTE and contract roles. My current position is an entrepreneurial repair role centered around the right to repair of off road motorcycles.
 <br>
 <br>
 <br>
@@ -51,7 +51,7 @@ techniques. Discusses current progress, results, roadblocks and outlines future 
     * Best Graduate Student Paper Award at PACISE conference.
 
 *Intern. [ZeroPush](https://zeropush.com "zeropush.com"). March 2015 to September 2015*
-* Contributed to a cross platform SaaS for sending transactional push notifications.
+* Contributed to a cross platform SaaS Rails app for sending transactional push notifications.
 * Improved site reliability by adding database indexes.
 * Avoided brute force logins by implementing Devise Lockable.
 * Improved site reliability by serving static assets through Amazon CloudFront (CDN).
