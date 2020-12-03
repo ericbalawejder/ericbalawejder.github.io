@@ -8,8 +8,6 @@ permalink: /resume/
 <br>
 <br>
 <br>
-<br>
-<br>
 
 <p align="center">
   <b>Eric Balawejder</b><br>
@@ -20,11 +18,15 @@ permalink: /resume/
 
 ------------------------------------------------------------------------------------------------------------------------------------------------<br>
 ***Technology​:***
-* ***Programming languages:*** Java 11, Ruby
-    * Basic knowledge of: C, C++, Bash, R, Kotlin, Python
+* ***Programming languages:*** Java 11
+    * Basic knowledge of: Kotlin, Ruby, Bash, R, Python, C, C++
 * ***Development tools:*** Spring, Spring Boot, Dropwizard, Hibernate, MySQL, Maven, Gradle, CircleCI, Docker, JUnit, Mockito, Git, IntelliJ, Rails
 * ***Operating Systems:*** OS X, Linux
 * ***RDBMS:*** MySQL, ​PostgreSQL
+
+***Projects​:*** [Exercism.io](https://exercism.io "exercism.io").
+* Open source project using test driven development for code challenges in various languages.
+* Contribute as a mentor for peer review solutions, code base maintenance and feature additions.
 
 ***Relevant Experience​:***<br>
 
@@ -51,16 +53,12 @@ techniques. Discusses current progress, results, roadblocks and outlines future 
     * Best Graduate Student Paper Award at PACISE conference.
 
 *Intern. [ZeroPush](https://zeropush.com "zeropush.com"). March 2015 to September 2015*
-* Contributed to a cross platform SaaS Rails app for sending transactional push notifications.
+* Contributed to a cross platform SaaS Rails application for sending transactional push notifications.
 * Improved site reliability by adding database indexes.
 * Avoided brute force logins by implementing Devise Lockable.
 * Improved site reliability by serving static assets through Amazon CloudFront (CDN).
 * Helped prepare for ​acquisition.
 
-
-***Projects​:*** [Exercism.io](https://exercism.io "exercism.io").
-* Open source project using test driven development for code challenges in various languages.
-* Contribute as a mentor for peer review solutions, code base maintenance and feature additions.
 
 ***Education​:***<br>
 
