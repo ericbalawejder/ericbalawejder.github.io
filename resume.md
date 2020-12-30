@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My skills are focused primarily in Java. I’m interested in backend, mobile development and info security for FTE and contract roles. My current position is an entrepreneurial repair role centered around the right to repair of off road motorcycles.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I enjoy building tools for developers. My skills are focused primarily around Java. I’m interested in backend, mobile development and info security for FTE and contract roles. My current position is an entrepreneurial repair role centered around the right to repair of off road motorcycles.
 <br>
 <br>
 <br>
