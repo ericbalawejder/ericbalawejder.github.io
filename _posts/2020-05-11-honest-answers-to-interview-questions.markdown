@@ -79,9 +79,10 @@ environment?
 ### Behavioral interview questions:
 
 `18) What was the last project you led, and what was its outcome?`<br>
-I led a research project during graduate school. Although the outcome of the tool wasn't 
-spectacular, the process outcome was very valuable. Working as a team, adapting to different
-personalities and sharing knowledge through out the project building process was very rewarding.
+I led a research project during graduate school. Working as a team, adapting to different
+personalities and sharing knowledge through out the project building process was very valuable.
+The outcome was similar to projects with arbitrary time limits.
+![On time, on budget, on quality. Pick two.](/assets/interview-questions/on_time_on_budget.jpg)
  
 `19) Give me an example of a time that you felt you went above and beyond the call of duty at
 work.`<br>
@@ -100,18 +101,24 @@ Calmly tell them what they could do to improve and how I could help them.
 
 `23) What is your greatest failure, and what did you learn from it?`<br>
 My greatest failure was not understanding how much blind luck actually effects your path in life.
-I learned that nepotism will take you far.
+Life is more random than it seems and a lot is based off the decisions of others.
+Nepotism will take you far.
 
 `24) How do you handle working with people who annoy you?`<br>
-By avoiding most interactions. You can't reason with toxic people about their behavior.
+By avoiding most interactions. You can't reason with toxic people about their behavior. You can't
+reason with unresonable people.
 
 `25) If I were your supervisor and asked you to do something that you disagreed with, what would you
-do?`<br> I would communicate my knowledge about the matter and express my dissent.
+do?`<br> I would communicate my knowledge about the matter and express my dissent. I wouldn't 
+make a big deal out of it because it is not a good idea to go one on one with a superior. If you
+win the battle you're probably going to lose the war. The more right you are, the more damage
+it will probably do in the long run. The larger priority is supporting the management structure 
+of the company.
 
 `26) What was the most difficult period in your life, and how did you deal with it?`<br>
 The most difficult time in my life was trying to get past the gatekeeping mechanisms of the tech
-industry. I handled it by learning that my skills were not holding me back. Most jobs are not advertised
-and are filled by the people you know.
+industry. I handled it by learning that my skills were not holding me back. Most jobs are not
+advertised and are filled by the people you know.
  
 `27) Give me an example of a time you did something wrong. How did you handle it?`<br>
 Doing something wrong isn't bad. It's only bad if you don't learn from it. Making mistakes
@@ -121,8 +128,8 @@ can be valuable learning experiences.
 Most conflicts arise from poor communication and unrealist time constraints. "What do you mean
 nine women can't produce a baby in one month?" 
 
-`29) If you were at a business lunch and you ordered a rare steak and they brought it to you well done,
-what would you do?`<br>
+`29) If you were at a business lunch and you ordered a rare steak and they brought it to you well
+done, what would you do?`<br>
 Eat it. I don't waste meat and don't like it when other people do.
 
 `30) If you found out your company was doing something against the law, like fraud, what would you
@@ -283,12 +290,12 @@ An education doesn’t lead to a career and hard work doesn’t lead to success.
 academia. The idea that anything is possible if you work hard enough is unfortunately a dangerous
 delusion. Life is more random than it seems and favorable outcomes are more often attributable to
 making good bets rather than a good work ethic. Don’t sacrifice more than it’s worth. Nepotism,
-networking and luck play a large role in the outcomes of our lives. You can do everything right and
+networking and luck play a large role in the outcomes of our lives. Many outcomes are based on the decisions of other people. You can do everything right and
 still lose.  
 
 `80) Why did you choose your major?`<br>
-I like to understand how things work and all explainable things in the universe can be mapped to a
-mathematical concept. 
+I like to understand how things work. Mathematical theories and principles provide an
+understanding and explaination to problems stemming from the universe. Mathematics is about pattern and structure and has a pervasive influence on our everyday lives.
 
 `81) What will you miss about your present/last job?`<br>
 Helping the people I worked with.  
@@ -298,7 +305,7 @@ Racing pro-am motocross.
 
 `83) What are the qualities of a good leader? A bad leader?`<br>
 A good leader is honest, transparent, rational, knowledgeable, values people and leads by example.
-A bad leader is well...turn on the news.  
+A bad leader is disconnected, manipulative and tries everything to push liability to escape accountability. 
 
 `84) Do you think a leader should be feared or liked?`<br>
 Liked.    
@@ -307,7 +314,7 @@ Liked.
 It's part of life.
 
 `86) How would you feel about working for someone who knows less than you?`<br>
-I always keep my resume up to date. 
+The team as a whole is better than any one person on it.
 
 `87) How do you think I rate as an interviewer?`<br>
 I didn't walk out yet. 
