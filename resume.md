@@ -20,7 +20,7 @@ permalink: /resume/
 ***Technology​:***
 * ***Programming languages:*** Java 11
     * Basic knowledge of: Kotlin, Ruby, Bash, R, Python, C, C++
-* ***Development tools:*** Spring, Spring Boot, Dropwizard, Hibernate, MySQL, Maven, Gradle, CircleCI, Docker, JUnit, Mockito, Git, IntelliJ, Rails
+* ***Development tools:*** Spring, Spring Boot, Dropwizard, Spring Data JPA, Hibernate, MySQL, Maven, Gradle, CircleCI, Docker, JUnit, Mockito, Git, IntelliJ, Rails
 * ***Operating Systems:*** OS X, Linux
 * ***RDBMS:*** MySQL, ​PostgreSQL
 
@@ -40,16 +40,16 @@ permalink: /resume/
 intelligence on a project for exploring the automatic recognition of information graphic messages.
 * Goal of the project was to understand the information conveyed in ​multimodal documents and have a computer
 model do the same.
-* Responsible for building a tool to predict the underlying message of an information graphic image when 
+* Responsible for building a [tool](https://github.com/ericbalawejder/pie-chart-bayes) to predict the underlying message of an information graphic image when 
 given the image in XML form.
-* Uses machine learning with a Bayesian network model written with the Java Netica API.
+* Uses machine learning with a Bayesian network model written with the [Java Netica API](https://www.norsys.com/netica-j/docs/javadocs/index.html).
 * Lead team development in an agile fashion with pair programming, work assignments, iteration phases and a
 weekly standup.
 * Delivered presentation to an audience of 20 people outlining project, impact of our results and future work at
-PACISE conference.
+[PACISE](http://granite.sru.edu/~pacise/) conference.
 * Leading author discussing the goal of our approach for graphic image recognition using machine learning
 techniques. Discusses current progress, results, roadblocks and outlines future work.
-* *Exploring the Automatic Recognition of Pie Chart Information Messages​*, Eric Balawejder, Tyler Traub, Richard Burns. In Proceedings of the 31st Annual Conference of The Pennsylvania Association of Computer and Information Science Educators, pp. 52-58, 2016.
+* *[Exploring the Automatic Recognition of Pie Chart Information Messages](/assets/resume/pacise16.pdf)​*, Eric Balawejder, Tyler Traub, Richard Burns. In Proceedings of the 31st Annual Conference of The Pennsylvania Association of Computer and Information Science Educators, pp. 52-58, 2016.
     * Best Graduate Student Paper Award at PACISE conference.
 
 *Intern. [ZeroPush](https://zeropush.com "zeropush.com"). March 2015 to September 2015*
@@ -63,8 +63,10 @@ techniques. Discusses current progress, results, roadblocks and outlines future 
 ***Education​:***<br>
 
 [West Chester University](https://www.wcupa.edu/), West Chester, PA.<br>
-*[Master of Science in Computer Science](https://www.wcupa.edu/sciences-mathematics/computerScience/masters.aspx)*, December 2016. GPA 3.5.<br>
-[Professional Development Certificate in Computer Security](https://www.wcupa.edu/sciences-mathematics/computerScience/profDevelopment.aspx#computerSecurity).<br>
+*[Master of Science in Computer Science](https://www.wcupa.edu/sciences-mathematics/computerScience/masters.aspx)*, December 2016. GPA 3.5.
+<br>
+<br>
+[Professional Development Certificate in Computer Security](https://www.wcupa.edu/sciences-mathematics/computerScience/profDevelopment.aspx#computerSecurity). December 2016.<br>
 
 [Temple University](https://www.temple.edu/), Philadelphia, PA.<br>
 *[Bachelor of Science in Mathematics](https://bulletin.temple.edu/undergraduate/science-technology/mathematics/mathematics-bs/#requirementstext)*.<br>
