@@ -19,18 +19,19 @@ permalink: /resume/
 ------------------------------------------------------------------------------------------------------------------------------------------------<br>
 ***Technology​:***
 * ***Programming languages:*** Java 11
-    * Basic knowledge of: Kotlin, Ruby, Bash, R, Python, C, C++
+    * Basic knowledge of: Typescript, Kotlin, Ruby, Bash, R, Python, C, C++
 * ***Development tools:*** Spring, Spring Boot, Dropwizard, Spring Data JPA, Hibernate, MySQL, Maven, Gradle, CircleCI, Docker, JUnit, Mockito, Git, IntelliJ, Rails
 * ***Operating Systems:*** OS X, Linux
 * ***RDBMS:*** MySQL, ​PostgreSQL
 
 ***Projects​:*** [Exercism.io](https://exercism.io "exercism.io").
-* Open source project using test driven development for code challenges in various languages.
-* Contribute as a mentor for peer review solutions, code base maintenance and feature additions.
+* Open source project using test driven development (TDD) for code challenges in various languages.
+* Maintainer of the [Java track](https://exercism.io/tracks/java/maintainers) for code base maintenance and feature additions.
+* [Mentor](https://exercism.io/tracks/java/mentors) for solutions on the Java learning track. 
 
 ***Relevant Experience​:***<br>
 
-*Tutor. [Mathnasium](https://www.mathnasium.com/northwilmington). March 2013 to June 2018*
+*Tutor. [Mathnasium](https://www.mathnasium.com/northwilmington). March 2013 to present*
 * Evaluated students for a custom learning plan that uses Mathnasium curriculum.
 * Instructed students in grades 5 through 12 with Mathnasium, personal and SAT prep curriculum.
 * Adapted to students' personalities, assess their feedback and modify instructional methods for their learning style.
