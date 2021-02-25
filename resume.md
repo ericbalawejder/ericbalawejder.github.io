@@ -19,7 +19,7 @@ permalink: /resume/
 ------------------------------------------------------------------------------------------------------------------------------------------------<br>
 ***Technology​:***
 * ***Programming languages:*** Java 11
-    * Basic knowledge of: Typescript, Kotlin, Ruby, Bash, R, Python, C, C++
+    * Basic knowledge of: [Go](https://github.com/ericbalawejder/hash-match), Typescript, Kotlin, Ruby, Bash, R, Python, C, C++
 * ***Development tools:*** Spring, Spring Boot, Dropwizard, Spring Data JPA, Hibernate, MySQL, Maven, Gradle, CircleCI, Docker, JUnit, Mockito, Git, IntelliJ, Rails
 * ***Operating Systems:*** OS X, Linux
 * ***RDBMS:*** MySQL, ​PostgreSQL
