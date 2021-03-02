@@ -5,9 +5,29 @@ date:   2020-11-18 12:00:00 -0000
 categories: jekyll update
 ---
 
-I'm using the IntelliJ Ultimate IDE. I won a one year license at a [PhillyJUG](https://www.meetup.com/PhillyJUG/) meetup raffle. The Ultimate edition provides server integration, a significant amount of framework support as well as a team of support people to resolve your issues that the community edition does not have. You can view a [comparison](https://www.jetbrains.com/idea/features/editions_comparison_matrix.html). The server support is a mere convenience and isn’t required. It does create a more pleasant experience over the verbose Tomcat command line server arguments or the gradle configuration.
+I have a good experience with JetBrains products IntelliJ, GoLand, RubyMine etc 90% of the time.
+IDE's, however, tend to do things "automagically" that a standard text editor and command line don't provide.
+Configuring the GOPATH in GoLand, obscuring directories in IntelliJ and the Gradle build default settings
+that inspired this post, are a few things that can inhibit the learning process with regards to how things
+should and actually work.
 
-I keep getting burned every time I create a new Java webapp project in IntelliJ. When deploying the war file to the server, IntelliJ can not find it. I forget this issue exists because I don't create Java webapps that often. I'm using Spring Boot or Dropwizard mostly with a built in server. I end up wasting an hour or so trying to understand the problem until I remember the issue. It is a documented issue with the default gradle build process. The issue can be found [here](https://youtrack.jetbrains.com/issue/IDEA-176700), as well as a [work around](https://youtrack.jetbrains.com/issue/IDEA-178450#focus=streamItem-27-4068591.0-0), but it hasn’t been integrated into updated releases for some reason. The comments on the issue page echo this. The first time this happened, I dug for hours before I ended up opening a support ticket. The team resolved my issue within a few hours. Below is an illustration of the steps.
+I won a one year license at a [PhillyJUG](https://www.meetup.com/PhillyJUG/) meetup raffle and became hooked. 
+The IntelliJ Ultimate edition provides server integration, a significant amount of framework support as well as a 
+team of support people to resolve your issues that the community edition does not have. You can view a
+[comparison](https://www.jetbrains.com/idea/features/editions_comparison_matrix.html). The server support
+is a mere convenience and isn’t required. It does create a more pleasant experience over the verbose Tomcat
+command line server arguments or the Gradle Jetty plugin configuration.
+
+I keep getting burned every time I create a new Java webapp project in IntelliJ. 
+When deploying the war file to the server, IntelliJ can not find it. I forget this issue exists because 
+I don't create Java webapps that often. I'm using Spring Boot or Dropwizard mostly with a built in server. 
+I end up wasting an hour or so trying to understand the problem until I remember the issue. It is a 
+documented issue with the default gradle build process. The issue can be found
+[here](https://youtrack.jetbrains.com/issue/IDEA-176700), as well as a 
+[work around](https://youtrack.jetbrains.com/issue/IDEA-178450#focus=streamItem-27-4068591.0-0), but it
+hasn’t been integrated into updated releases for some reason. The comments on the issue page echo this. 
+The first time this happened, I dug for hours before I ended up opening a support ticket. The team resolved
+my issue within a few hours. Below is an illustration of the steps.
 
 <br>
 Initial setup structure.
@@ -20,7 +40,10 @@ Adding Tomcat configuration with the exploded war artifact.
 
 The war file can not be found with the default gradle build setting.
 ```
-[2020-11-18 08:13:42,572] Artifact Gradle : org.example : spring-rest-demo-1.0-SNAPSHOT.war (exploded): com.intellij.javaee.oss.admin.jmx.JmxAdminException: com.intellij.execution.ExecutionException: /Users/ericbalawejder/Development/spring-rest-demo/build/libs/exploded/spring-rest-demo-1.0-SNAPSHOT.war not found for the web module.
+[2020-11-18 08:13:42,572] Artifact Gradle : org.example : spring-rest-demo-1.0-SNAPSHOT.war (exploded): 
+com.intellij.javaee.oss.admin.jmx.JmxAdminException: com.intellij.execution.ExecutionException:
+/Users/ericbalawejder/Development/spring-rest-demo/build/libs/exploded/spring-rest-demo-1.0-SNAPSHOT.war
+not found for the web module.
 ```
 Select the following menu settings:
 <br>
@@ -33,7 +56,10 @@ Change to build and run with IntelliJ.
 
 ```
 Connected to server
-[2020-11-18 08:20:25,110] Artifact Gradle : org.example : spring-rest-demo-1.0-SNAPSHOT.war (exploded): Artifact is being deployed, please wait...
-[2020-11-18 08:20:25,564] Artifact Gradle : org.example : spring-rest-demo-1.0-SNAPSHOT.war (exploded): Artifact is deployed successfully
-[2020-11-18 08:20:25,564] Artifact Gradle : org.example : spring-rest-demo-1.0-SNAPSHOT.war (exploded): Deploy took 454 milliseconds
+[2020-11-18 08:20:25,110] Artifact Gradle : org.example : spring-rest-demo-1.0-SNAPSHOT.war (exploded):
+Artifact is being deployed, please wait...
+[2020-11-18 08:20:25,564] Artifact Gradle : org.example : spring-rest-demo-1.0-SNAPSHOT.war (exploded):
+Artifact is deployed successfully
+[2020-11-18 08:20:25,564] Artifact Gradle : org.example : spring-rest-demo-1.0-SNAPSHOT.war (exploded):
+Deploy took 454 milliseconds
 ```
