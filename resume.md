@@ -17,29 +17,29 @@ permalink: /resume/
 </p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------<br>
-***Technology​:***
+***Technology:***
 * ***Programming languages:*** Java 11
     * Basic knowledge of: [Go](https://github.com/ericbalawejder/hash-match), Typescript, Kotlin, Ruby, Bash, R, Python, C, C++
 * ***Development tools:*** Spring, Spring Boot, Dropwizard, Spring Data JPA, Hibernate, MySQL, Maven, Gradle, CircleCI, Docker, JUnit, Mockito, Git, IntelliJ, Rails
 * ***Operating Systems:*** OS X, Linux
-* ***RDBMS:*** MySQL, ​PostgreSQL
+* ***RDBMS:*** MySQL, PostgreSQL
 
-***Projects​:*** [Exercism.io](https://exercism.io "exercism.io").
+***Projects:*** [Exercism.io](https://exercism.io "exercism.io").
 * Open source project using test driven development (TDD) for code challenges in various languages.
 * Maintainer of the [Java track](https://exercism.io/tracks/java/maintainers) for code base maintenance and feature additions.
 * [Mentor](https://exercism.io/tracks/java/mentors) for solutions on the Java learning track. 
 
-***Relevant Experience​:***<br>
+***Relevant Experience:***<br>
 
 *Tutor. [Mathnasium](https://www.mathnasium.com/northwilmington). March 2013 to present*
-* Evaluated students for a custom learning plan that uses Mathnasium curriculum.
-* Instructed students in grades 5 through 12 with Mathnasium, personal and SAT prep curriculum.
-* Adapted to students' personalities, assess their feedback and modify instructional methods for their learning style.
+* Evaluate students for a custom learning plan that uses Mathnasium curriculum.
+* Instruct students in grades 5 through 12 with Mathnasium, personal and SAT prep curriculum.
+* Adapt to students' personalities, assess their feedback and modify instructional methods for their learning style.
 
 *[Graduate Assistant](https://www.wcupa.edu/_admissions/sch_dgr/assistantships.aspx). [West Chester University](https://www.wcupa.edu/). January 2015 to December 2016*
 * Paid position responsible for contributing to research, under advisor Dr. Richard Burns, in artificial
 intelligence on a project for exploring the automatic recognition of information graphic messages.
-* Goal of the project was to understand the information conveyed in ​multimodal documents and have a computer
+* Goal of the project was to understand the information conveyed in multimodal documents and have a computer
 model do the same.
 * Responsible for building a [tool](https://github.com/ericbalawejder/pie-chart-bayes) to predict the underlying message of an information graphic image when 
 given the image in XML form.
@@ -50,7 +50,7 @@ weekly standup.
 [PACISE](http://granite.sru.edu/~pacise/) conference.
 * Leading author discussing the goal of our approach for graphic image recognition using machine learning
 techniques. Discusses current progress, results, roadblocks and outlines future work.
-* *[Exploring the Automatic Recognition of Pie Chart Information Messages](/assets/resume/pacise16.pdf)​*, Eric Balawejder, Tyler Traub, Richard Burns. In Proceedings of the 31st Annual Conference of The Pennsylvania Association of Computer and Information Science Educators, pp. 52-58, 2016.
+* *[Exploring the Automatic Recognition of Pie Chart Information Messages](/assets/resume/pacise16.pdf)*, Eric Balawejder, Tyler Traub, Richard Burns. In Proceedings of the 31st Annual Conference of The Pennsylvania Association of Computer and Information Science Educators, pp. 52-58, 2016.
     * Best Graduate Student Paper Award at PACISE conference.
 
 *Intern. [ZeroPush](https://zeropush.com "zeropush.com"). March 2015 to September 2015*
@@ -58,10 +58,10 @@ techniques. Discusses current progress, results, roadblocks and outlines future 
 * Improved site reliability by adding database indexes.
 * Avoided brute force logins by implementing Devise Lockable.
 * Improved site reliability by serving static assets through Amazon CloudFront (CDN).
-* Helped prepare for ​acquisition.
+* Helped prepare for acquisition.
 
 
-***Education​:***<br>
+***Education:***<br>
 
 [West Chester University](https://www.wcupa.edu/), West Chester, PA.<br>
 *[Master of Science in Computer Science](https://www.wcupa.edu/sciences-mathematics/computerScience/masters.aspx)*, December 2016. GPA 3.5.
