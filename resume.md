@@ -31,10 +31,10 @@ permalink: /resume/
 
 ***Relevant Experience:***<br>
 
-*Tutor. [Mathnasium](https://www.mathnasium.com/northwilmington). March 2013 to present*
-* Evaluate students for a custom learning plan that uses Mathnasium curriculum.
-* Instruct students in grades 5 through 12 with Mathnasium, personal and SAT prep curriculum.
-* Adapt to students' personalities, assess their feedback and modify instructional methods for their learning style.
+*Tutor. [Mathnasium](https://www.mathnasium.com/northwilmington). March 2013 to June 2018*
+* Evaluated students for a custom learning plan that uses Mathnasium curriculum.
+* Instructed students in grades 5 through 12 with Mathnasium, personal and SAT prep curriculum.
+* Adapted to students' personalities, assess their feedback and modify instructional methods for their learning style.
 
 *[Graduate Assistant](https://www.wcupa.edu/_admissions/sch_dgr/assistantships.aspx). [West Chester University](https://www.wcupa.edu/). January 2015 to December 2016*
 * Paid position responsible for contributing to research, under advisor Dr. Richard Burns, in artificial
