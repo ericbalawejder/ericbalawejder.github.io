@@ -4,7 +4,14 @@ title: Resume
 permalink: /resume/
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I enjoy building tools. My skills are focused primarily around Java. I’m interested in backend, mobile development and info security for FTE and contract roles. My current position is an entrepreneurial repair role centered around the right to repair of off road motorcycles.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I enjoy building backends and tools. 
+End to end encryption and the business constraints interest me. 
+Making technology easy to use for businesses is important.
+Performance matters because all of your users don't have 5G.
+I like to use functional programming where it makes sense.
+My skills are focused around the Java 11 ecosystem. 
+I’m interested in backend, mobile development and info security for FTE and contract roles. 
+My current position is an entrepreneurial repair role centered around the right to repair of off road motorcycles.
 <br>
 <br>
 <br>
@@ -25,11 +32,17 @@ permalink: /resume/
 * ***RDBMS:*** MySQL, PostgreSQL
 
 ***Projects:*** [Exercism.io](https://exercism.io "exercism.io").
-* Open source project using test driven development (TDD) for code challenges in various languages.
-* Maintainer of the [Java track](https://exercism.io/tracks/java/maintainers) for code base maintenance and feature additions.
+* Open source project using test driven development (TDD) for code challenges in 52 languages.
+* Maintainer of the [Java track](https://exercism.io/tracks/java/maintainers).
 * [Mentor](https://exercism.io/tracks/java/mentors) for solutions on the Java learning track. 
 
 ***Relevant Experience:***<br>
+
+*Motorcycle Mechanic. Sole proprietor. June 2018 to present*
+* Specialize in the repair of ignitions, suspension and engines of the four Japanese off-road motorcycle brands.
+* Communicate with customers regarding vehicle issues, costs and make them feel comfortable with potential repairs.
+* Build custom tools and documentation to repair proprietary components designed to be obscured.
+* Create custom business software.
 
 *Tutor. [Mathnasium](https://www.mathnasium.com/northwilmington). March 2013 to June 2018*
 * Evaluated students for a custom learning plan that uses Mathnasium curriculum.
