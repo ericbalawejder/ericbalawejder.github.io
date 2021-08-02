@@ -38,7 +38,7 @@ My current position is an entrepreneurial repair role centered around the right 
 
 ***Relevant Experience:***<br>
 
-*Motorcycle Mechanic. Sole proprietor. June 2018 to present*
+*Motorcycle Mechanic. Sole proprietor. March 2020 to present*
 * Specialize in the repair of ignitions, suspension and engines of the four Japanese off-road motorcycle brands.
 * Communicate with customers regarding vehicle issues, costs and make them feel comfortable with potential repairs.
 * Build custom tools and documentation to repair proprietary components designed to be obscured.
@@ -66,7 +66,7 @@ techniques. Discusses current progress, results, roadblocks and outlines future 
 * *[Exploring the Automatic Recognition of Pie Chart Information Messages](/assets/resume/pacise16.pdf)*, Eric Balawejder, Tyler Traub, Richard Burns. In Proceedings of the 31st Annual Conference of The Pennsylvania Association of Computer and Information Science Educators, pp. 52-58, 2016.
     * Best Graduate Student Paper Award at PACISE conference.
 
-*Intern. [ZeroPush](https://zeropush.com "zeropush.com"). March 2015 to September 2015*
+*Intern. [ZeroPush](https://zeropush.com). March 2015 to September 2015*
 * Contributed to a cross platform SaaS Rails application for sending transactional push notifications.
 * Improved site reliability by adding database indexes.
 * Avoided brute force logins by implementing Devise Lockable.
