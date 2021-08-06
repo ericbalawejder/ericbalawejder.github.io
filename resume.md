@@ -50,12 +50,11 @@ My current position is an entrepreneurial repair role centered around the right 
 * Adapted to students' personalities, assess their feedback and modify instructional methods for their learning style.
 
 *[Graduate Assistant](https://www.wcupa.edu/_admissions/sch_dgr/assistantships.aspx). [West Chester University](https://www.wcupa.edu/). January 2015 to December 2016*
-* Paid position responsible for contributing to research, under advisor Dr. Richard Burns, in artificial
+* Responsible for contributing to research, under advisor Dr. Richard Burns, in artificial
 intelligence on a project for exploring the automatic recognition of information graphic messages.
-* Goal of the project was to understand the information conveyed in multimodal documents and have a computer
-model do the same.
-* Responsible for building a [tool](https://github.com/ericbalawejder/pie-chart-bayes) to predict the underlying message of an information graphic image when 
-given the image in XML form.
+* Goal of the project was to create a computer model to understand the information conveyed in multimodal documents.
+* Built a [tool](https://github.com/ericbalawejder/pie-chart-bayes) to predict the underlying message of an information graphic image when 
+provided in XML form.
 * Uses machine learning with a Bayesian network model written with the [Java Netica API](https://www.norsys.com/netica-j/docs/javadocs/index.html).
 * Lead team development in an agile fashion with pair programming, work assignments, iteration phases and a
 weekly standup.
