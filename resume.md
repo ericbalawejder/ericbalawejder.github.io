@@ -50,20 +50,18 @@ My current position is an entrepreneurial repair role centered around the right 
 * Adapted to students' personalities, assess their feedback and modify instructional methods for their learning style.
 
 *[Graduate Assistant](https://www.wcupa.edu/_admissions/sch_dgr/assistantships.aspx). [West Chester University](https://www.wcupa.edu/). January 2015 to December 2016*
-* Responsible for contributing to research, under advisor Dr. Richard Burns, in artificial
-intelligence on a project for exploring the automatic recognition of information graphic messages.
-* Goal of the project was to create a computer model to understand the information conveyed in multimodal documents.
+* Contributed to research in artificial intelligence on a project for exploring the automatic recognition 
+of information graphic messages conveyed in multimodal documents.
 * Built a [tool](https://github.com/ericbalawejder/pie-chart-bayes) to predict the underlying message of an information graphic image when 
 provided in XML form.
 * Uses machine learning with a Bayesian network model written with the [Java Netica API](https://www.norsys.com/netica-j/docs/javadocs/index.html).
 * Lead team development in an agile fashion with pair programming, work assignments, iteration phases and a
 weekly standup.
-* Delivered presentation to an audience of 20 people outlining project, impact of our results and future work at
+* Delivered presentation outlining project, impact of our results and future work at
 [PACISE](http://granite.sru.edu/~pacise/) conference.
-* Leading author discussing the goal of our approach for graphic image recognition using machine learning
-techniques. Discusses current progress, results, roadblocks and outlines future work.
-* *[Exploring the Automatic Recognition of Pie Chart Information Messages](/assets/resume/pacise16.pdf)*, Eric Balawejder, Tyler Traub, Richard Burns. In Proceedings of the 31st Annual Conference of The Pennsylvania Association of Computer and Information Science Educators, pp. 52-58, 2016.
-    * Best Graduate Student Paper Award at PACISE conference.
+* Leading author discussing the goal of our approach, current progress, results, roadblocks and outlines
+future work for graphic image recognition using machine learning
+* Best Graduate Student Paper Award at PACISE conference.
 
 *Intern. [ZeroPush](https://zeropush.com). March 2015 to September 2015*
 * Contributed to a cross platform SaaS Rails application for sending transactional push notifications.
