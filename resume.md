@@ -31,10 +31,10 @@ My current position is an entrepreneurial repair role centered around the right 
 * ***Operating Systems:*** OS X, Linux
 * ***RDBMS:*** MySQL, PostgreSQL
 
-***Projects:*** [Exercism.io](https://exercism.io "exercism.io").
+***Projects:*** [Exercism.org](https://exercism.org)
 * Open source project using test driven development (TDD) for code challenges in 52 languages.
-* Maintainer of the [Java track](https://exercism.io/tracks/java/maintainers).
-* [Mentor](https://exercism.io/tracks/java/mentors) for solutions on the Java learning track. 
+* Maintainer of the Java track.
+* Mentor for solutions on the Java learning track. 
 
 ***Relevant Experience:***<br>
 
