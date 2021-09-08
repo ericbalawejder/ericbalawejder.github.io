@@ -32,9 +32,8 @@ My current position is an entrepreneurial repair role centered around the right 
 * ***RDBMS:*** MySQL, PostgreSQL
 
 ***Projects:*** [Exercism.org](https://exercism.org)
-* Open source project using test driven development (TDD) for code challenges in 52 languages.
-* Maintainer of the Java track.
-* Mentor for solutions on the Java learning track. 
+* Open source project using test driven development (TDD) for code challenges in 55 languages.
+* [Maintainer and mentor](https://exercism.org/profiles/ericbalawejder) of the Java track.
 
 ***Relevant Experience:***<br>
 
