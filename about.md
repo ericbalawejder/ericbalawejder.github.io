@@ -4,10 +4,26 @@ title: About
 permalink: /about/
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I like to understand how things work. This is a desire that is hard to paint a picture of with portfolios and projects. I enjoy encountering a problem, something that I may know little about, and digging a hole to provide a contextual understanding of its domain and inner workings. I apply this interest to trying to understand most of the things in the universe. From mathematics to computational science, human behavior and my favorite hobby, off road motorcycles.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I like to understand how things work.
+I enjoy encountering a problem, something that I may know little about, and digging a hole 
+to provide a contextual understanding of its domain and inner workings. I apply this interest 
+to trying to understand most of the things in the universe. From mathematics to computational 
+science, human behavior and my favorite hobby, off road motorcycles.<br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I completed my master's degree in computer science in December of 2016. I was a full time student from 2014-2016. During that time, I was working as a graduate assistant conducting research on graphic image recognition. The research was for understanding the underlying message in a multimodal document such as a line chart, bar chart and pie chart. This experiment was similar to the technology in a tool called [Zanran](http://www.zanran.com/) and a subset of complete image recognition tools, such as [Google Photos](https://www.google.com/photos/about/) and [Wolfram](https://www.imageidentify.com/). My role was to build a tool to predict the underlying message of an information graphic given in XML form. The most appealing part of the project was learning the machine learning pipeline and how to use machine learning tools, which came from my original interest in mathematics.<br>
-<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Some of the roles I’ve held in the past were a math tutor at Mathnasium, machine and metal fabricator and motorcycle mechanic. How society goes about educating people with techniques to modify behavior, develop critical thinking and acquire knowledge is a topic where bureaucracy tends to rule over psychology. It's a system built on incentives that do more harm than good. I find that you need to have a higher level of understanding in order to properly convey principles and techniques to another and that pushes me to develop a better understanding as well as become a better communicator. Working with my hands brings out a different level of curiosity, creativity and connectedness that reading and writing cannot. Creating things and making them work are gratifying but the physical state and the ability to interact through touch, sight and sound provides a heightened experience.<br>
-<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;While I’m currently pursuing a software development role, my current position is an entrepreneurial repair role centered around off road motorcycle repair. Right to repair is a big interest of mine. Companies go to great lengths to prevent consumers from working on their product. This is done through copyright laws, supply chain monopolies, proprietary tools and limited documentation. Motorcycles are becoming more computer automated and this allows me to use my software, metal machining, 3D printing and mechanical skills. It provides me with more autonomy for learning, managing my time, providing more value and having a larger impact.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I completed my master's degree in computer science 
+in December of 2016. I was a full time student from 2014-2016. During that time, I was working as 
+a graduate assistant conducting research on graphic image recognition. The research was for understanding 
+the underlying message in a multimodal document such as a line chart, bar chart and pie chart. 
+This experiment was similar to the technology in a tool called [Zanran](http://www.zanran.com/) 
+and a subset of complete image recognition tools, such as [Google Photos](https://www.google.com/photos/about/) 
+and [Wolfram](https://www.imageidentify.com/). My role was to build a tool to predict the underlying 
+message of an information graphic given in XML form. The most appealing part of the project was learning 
+the machine learning pipeline and how to use machine learning tools, which came from my original interest 
+in mathematics.<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My current position is an entrepreneurial repair role 
+centered around off road motorcycle repair. Right to repair is a big interest of mine. Companies go to 
+great lengths to prevent consumers from working on their product. This is done through copyright laws, 
+supply chain monopolies, proprietary tools and limited documentation. Motorcycles are becoming more 
+computer automated and this allows me to use my software, metal machining, 3D printing and mechanical skills. 
+It provides me with more autonomy for learning, managing my time, providing more value and having a larger impact.
