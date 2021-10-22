@@ -4,14 +4,12 @@ title: Resume
 permalink: /resume/
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I enjoy building backends and tools. 
-End to end encryption and the business constraints interest me. 
-Making technology easy to use for businesses is important.
-Performance matters because all of your users don't have 5G.
-I like to use functional programming where it makes sense.
-My skills are focused around the Java 11 ecosystem. 
-I’m interested in backend, mobile development and info security for FTE and contract roles. 
-My current position is an entrepreneurial repair role centered around the right to repair of off road motorcycles.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I enjoy building backends and tools. End to end 
+encryption and the business constraints interest me. Making technology easy to use for businesses is important.
+Performance matters because all of your users don't have 5G or an M1 chip. I like to use functional programming 
+where it makes sense. My skills are focused around the Java 11 ecosystem. I’m interested in backend, mobile 
+development and info security for FTE and contract roles. My current position is an entrepreneurial repair role 
+centered around the right to repair of off road motorcycles.
 <br>
 <br>
 <br>
