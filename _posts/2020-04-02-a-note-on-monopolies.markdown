@@ -30,7 +30,7 @@ rebates, retaliation, and political corruption. The "buy to kill" technique foll
 adjusting" one that stifles innovation, consolidates supply chains and promotes intellectual laziness.
 It's commonly sold to the people under the term "free market" where institutions are organized entirely
 around the short-term horizon of financiers whose actual goal is to create a monopoly. A hierarchy where
-people who do the actualy work have little control over it and watch their leverage in the work force
+people who do the actual work have little control over it and watch their leverage in the work force
 decline. The Fed shifted hundreds of billions of dollars to some of the most toxic private equity groups
 in the country. Now, when small business are most vulnerable and big business is borrowing money for
 free, this problem will grow.
