@@ -7,7 +7,7 @@ permalink: /resume/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I enjoy building backends and tools. End to end 
 encryption and the business constraints interest me. Making technology easy to use for businesses is important.
 Performance matters because all of your users don't have 5G or an M1 chip. I like to use functional programming 
-where it makes sense. My skills are focused around the Java 11 ecosystem. I’m interested in backend, mobile 
+where it makes sense. My skills are focused around the Java 17 ecosystem. I’m interested in backend, mobile 
 development and info security for FTE and contract roles. My current position is an entrepreneurial repair role 
 centered around the right to repair of off road motorcycles.
 <br>
@@ -23,15 +23,16 @@ centered around the right to repair of off road motorcycles.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------<br>
 ***Technology:***
-* ***Programming languages:*** Java 11
+* ***Programming languages:*** Java 17
     * Basic knowledge of: [Go](https://github.com/ericbalawejder/hash-match), Typescript, Kotlin, Ruby, Bash, R, Python, C, C++
-* ***Development tools:*** Spring, Spring Boot, Dropwizard, Spring Data JPA, Hibernate, MySQL, Maven, Gradle, CircleCI, Docker, JUnit, Mockito, Git, IntelliJ, Rails
+* ***Development tools:*** Spring, Spring Boot, Dropwizard, Angular, Spring Data JPA, Hibernate, MySQL, Maven, Gradle, CircleCI, Docker, JUnit, Mockito, Git, IntelliJ, Rails
 * ***Operating Systems:*** OS X, Linux
 * ***RDBMS:*** MySQL, PostgreSQL
 
 ***Projects:*** [Exercism.org](https://exercism.org)
 * Open source project using test driven development (TDD) for code challenges in 55 languages.
 * [Maintainer and mentor](https://exercism.org/profiles/ericbalawejder) of the Java track.
+* Contributed to infrastructure and user interface features for the latest version of [Exercism.org](https://exercism.org).
 
 ***Relevant Experience:***<br>
 
@@ -53,11 +54,11 @@ of information graphic messages conveyed in multimodal documents.
 provided in XML form.
 * Uses machine learning with a Bayesian network model written with the [Java Netica API](https://www.norsys.com/netica-j/docs/javadocs/index.html).
 * Lead team development in an agile fashion with pair programming, work assignments, iteration phases and a
-weekly standup.
+weekly stand-up.
 * Delivered presentation outlining project, impact of our results and future work at
 [PACISE](http://granite.sru.edu/~pacise/) conference.
 * Leading author discussing the goal of our approach, current progress, results, roadblocks and outlines
-future work for graphic image recognition using machine learning
+future work for graphic image recognition using machine learning.
 * Best Graduate Student Paper Award at PACISE conference.
 
 *Intern. [ZeroPush](https://zeropush.com). March 2015 to September 2015*
