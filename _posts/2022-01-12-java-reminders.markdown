@@ -29,7 +29,7 @@ public class Testing {
         final BankAccount accountOne = new BankAccount(1073741825);
         final BankAccount accountTwo = new BankAccount(-1073741823);
         final int comparison = accountOne.compareTo(accountTwo);
-        System.out.println(comparison);
+        System.out.println(comparison); // -2147483648
     }
 
     private record BankAccount(int balance) {
@@ -47,7 +47,7 @@ public class Testing {
         final BankAccount accountOne = new BankAccount(1073741825);
         final BankAccount accountTwo = new BankAccount(-1073741823);
         final int comparison = accountOne.compareTo(accountTwo);
-        System.out.println(comparison);
+        System.out.println(comparison); // 1
     }
 
     private record BankAccount(int balance) {
@@ -82,7 +82,7 @@ method may be implemented using compensated summation or other technique to redu
 sum compared to a simple summation of double values. Because of the unspecified order of operations and the possibility 
 of using differing summation schemes, the output of this method may vary on the same input elements.
 
-I assume this is based on the Kahan sum implementation. 
+I assume this is based on the [Kahan sum](https://en.wikipedia.org/wiki/Kahan_summation_algorithm) implementation. 
 
 Remember, decimal literals are of type `double` and need to be cast down to `float`.
 ```java
@@ -112,19 +112,31 @@ System.out.println(-0.0 == 0.0); // true
 value of a number.
 <br>
 <br>
-### [Modular arithmetic](https://en.wikipedia.org/wiki/Modular_arithmetic)
+### Modular arithmetic
 I've been burned by this a lot. I enjoy [Project Euler](https://projecteuler.net/),
 [Rosalind](https://rosalind.info/problems/locations/) and [Advent of Code](https://adventofcode.com/). When I think of
 modulus, I think in terms of remainder classes. For any modulus `n`, there exists `n - 1` remainder classes denoted as the
 [least residue system modulo n](https://en.wikipedia.org/wiki/Modular_arithmetic#Residue_systems). The set of integers 
 <br>`{0, 1, 2, ... , n − 1}` less than `n` from 
 [Euclidean division](https://en.wikipedia.org/wiki/Euclidean_division).
-<br>
-<br>
+```
+Given two integers a and b, with b ≠ 0, there exist unique integers q and r such that
+
+a = bq + r
+and
+
+0 ≤ r < |b|
+```
+
 In Java, the `%` is the remainder operator and `Math.floorMod()` is the modulo operator which is consistent with
 the Euclidean definition where the remainder is always non-negative, `0 ≤ r`, and is thus consistent with the 
 [Euclidean division algorithm](https://en.wikipedia.org/wiki/Euclidean_division). Each language may have a different 
 [definition](https://en.wikipedia.org/wiki/Modulo_operation#Variants_of_the_definition) of this operation.
+<br>
+```java
+System.out.println(-18 % 5);               // -3
+System.out.println(Math.floorMod(-18, 5)); // 2
+```
 <br>
 <br>
 ### URL class
@@ -232,3 +244,6 @@ final String s2 = new String("hello");
 System.out.println(s1 == s2); // false
 ```
 ...but don't confuse reference comparison with content comparison. Use `s1.equals(s2)`.
+<br>
+<br>
+Remember, as with any programing language or tool, just because you can doesn’t mean you should.
