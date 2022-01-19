@@ -138,7 +138,7 @@ System.out.println(-18 % 5);               // -3
 System.out.println(Math.floorMod(-18, 5)); // 2
 ```
 <br>
-<br>
+
 ### URL class
 ```java
 public static void main(String[] args) throws InterruptedException, MalformedURLException {
@@ -182,8 +182,8 @@ System.out.println(list);
 ```
 [2, 3]
 ```
-Collections use boxed types but it's not common to use a boxed type unless you are expecting a 
-`null` or `Optional` check. Just a reminder...
+Collections only use boxed (object) types but it's not common to use a boxed type otherwise unless you are 
+expecting a `null` or `Optional` check. Just a reminder...
 ```java
 final int a = 1000;
 final int b = 1000;
