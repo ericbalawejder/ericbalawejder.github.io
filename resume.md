@@ -32,7 +32,7 @@ centered around the right to repair of off road motorcycles.
 ***Projects:*** [Exercism.org](https://exercism.org)
 * Open source project using test driven development (TDD) for code challenges in 55 languages.
 * [Maintainer and mentor](https://exercism.org/profiles/ericbalawejder) of the Java track.
-* Contributed to infrastructure and user interface features for the latest version of [Exercism.org](https://exercism.org).
+* Contributed to feature additions for the latest version of [Exercism.org](https://exercism.org).
 
 ***Relevant Experience:***<br>
 
