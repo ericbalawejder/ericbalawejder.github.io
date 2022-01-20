@@ -26,8 +26,8 @@ range.
 ```java
 public class Testing {
     public static void main(String[] args) {
-        final BankAccount accountOne = new BankAccount(1073741825);
-        final BankAccount accountTwo = new BankAccount(-1073741823);
+        final BankAccount accountOne = new BankAccount(1_073_741_825);
+        final BankAccount accountTwo = new BankAccount(-1_073_741_823);
         final int comparison = accountOne.compareTo(accountTwo);
         System.out.println(comparison); // -2147483648
     }
@@ -44,8 +44,8 @@ an `int` and rolls over to `-2147483648`.
 ```java
 public class Testing {
     public static void main(String[] args) {
-        final BankAccount accountOne = new BankAccount(1073741825);
-        final BankAccount accountTwo = new BankAccount(-1073741823);
+        final BankAccount accountOne = new BankAccount(1_073_741_825);
+        final BankAccount accountTwo = new BankAccount(-1_073_741_823);
         final int comparison = accountOne.compareTo(accountTwo);
         System.out.println(comparison); // 1
     }
