@@ -7,9 +7,9 @@ permalink: /resume/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I enjoy building backends and tools. End to end 
 encryption and the business constraints interest me. Making technology easy to use for businesses is important.
 Performance matters because all of your users don't have 5G or an M1 chip. I like to use functional programming 
-where it makes sense. My skills are focused around the Java 17 ecosystem. I’m interested in backend, mobile 
-development and info security for FTE and contract roles. My current position is an entrepreneurial repair role 
-centered around the right to repair of off road motorcycles.
+where it makes sense. My skills are focused around the Java 17 ecosystem. I’m interested in backend development 
+for FTE and contract roles. My current position is an entrepreneurial repair role centered around the right to 
+repair of off road motorcycles.
 <br>
 <br>
 <br>
@@ -24,10 +24,13 @@ centered around the right to repair of off road motorcycles.
 ------------------------------------------------------------------------------------------------------------------------------------------------<br>
 ***Technology:***
 * ***Programming languages:*** Java 17
-    * Basic knowledge of: [Go](https://github.com/ericbalawejder/hash-match), Typescript, Kotlin, Ruby, Bash, R, Python, C, C++
-* ***Development tools:*** Spring, Spring Boot, Dropwizard, Angular, Spring Data JPA, Hibernate, MySQL, Maven, Gradle, CircleCI, Docker, JUnit, Mockito, Git, IntelliJ, Rails
+* ***Development tools:*** RESTful services with Spring, Spring Boot, Dropwizard, Spring Data JPA, Hibernate, Git
+* ***Build*** Gradle, Maven, CircleCI, Docker, Vagrant
+* ***Testing*** JUnit, Mockito, AssertJ
 * ***Operating Systems:*** OS X, Linux
 * ***RDBMS:*** MySQL, PostgreSQL
+
+    * *Exposed to*: Typescript, Angular, [Go](https://github.com/ericbalawejder/hash-match), Kotlin, Android, Ruby, Rails, R, Tableau, Python, C, C++
 
 ***Projects:*** [Exercism.org](https://exercism.org)
 * Open source project using test driven development (TDD) for code challenges in 55 languages.
