@@ -82,7 +82,8 @@ method may be implemented using compensated summation or other technique to redu
 sum compared to a simple summation of double values. Because of the unspecified order of operations and the possibility 
 of using differing summation schemes, the output of this method may vary on the same input elements.
 
-I assume this is based on the [Kahan sum](https://en.wikipedia.org/wiki/Kahan_summation_algorithm) implementation. 
+Floating point addition is not commutative and I assume this is based on the 
+[Kahan sum](https://en.wikipedia.org/wiki/Kahan_summation_algorithm) implementation. 
 
 Remember, decimal literals are of type `double` and need to be cast down to `float`.
 ```java
@@ -93,7 +94,7 @@ But an `int` literal is only of type `long` if it ends with an `L`.
 ```java
 final long sum = 0L;
 ```
-Not the consistency we would expect.
+It needs to be cast up to a long. Not the consistency we would expect.
 <br>
 <br>
 
