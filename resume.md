@@ -7,8 +7,7 @@ permalink: /resume/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I enjoy building backends and tools. End to end 
 encryption and the business constraints interest me. Making technology easy to use for businesses is important.
 Performance matters because all of your users don't have 5G or an M1 chip. I like to use functional programming 
-where it makes sense. My skills are focused around the Java 17 ecosystem. My current position is an entrepreneurial 
-repair role centered around the right to repair of off road motorcycles.
+where it makes sense. My skills are focused around the Java 17 ecosystem.
 <br>
 <br>
 <br>
@@ -24,29 +23,27 @@ repair role centered around the right to repair of off road motorcycles.
 ------------------------------------------------------------------------------------------------------------------------------------------------<br>
 ### ***Technology:***
 * ***Programming languages:*** Java 17
-* ***Development tools:*** RESTful services with Spring, Spring Boot, Dropwizard, Spring Data JPA, Hibernate, Git
+* ***Development tools:*** RESTful services with Spring, Spring Boot, Dropwizard, Spring Data JPA, Hibernate, Lombok, Git
 * ***Build*** Gradle, Maven, CircleCI, Docker, Vagrant
 * ***Testing*** JUnit, Mockito, AssertJ
 * ***Operating Systems:*** OS X, Linux
 * ***RDBMS:*** MySQL, PostgreSQL
+* ***DBMS*** MongoDB
 
     * ***Exposed to***: Typescript, Angular, [Go](https://github.com/ericbalawejder/hash-match), Kotlin, Android, Ruby, Rails, R, Tableau, Python, C, C++
 
 ### ***Projects:***<br> 
 [Exercism.org](https://exercism.org)
-* Open source project using test driven development (TDD) for code challenges in 55 languages.
+* Open source project using test driven development (TDD) for code challenges in 57 languages.
 * [Maintainer and mentor](https://exercism.org/profiles/ericbalawejder) of the Java track.
 * Contributed to feature additions for the latest version of [Exercism.org](https://exercism.org).
 
-[The New Management Inc](https://thenewmanagementinc.com/)
-* Contributing to the development of [Project FoodToken](https://foodtoken.club/) DAO with profits funding food insecurity charities.
-
 ### ***Relevant Experience:***<br>
 
-*Motorcycle Mechanic. Sole proprietor. March 2020 to present*
-* Specialize in the repair of ignitions, suspension and engines of the four Japanese off-road motorcycle brands.
-* Communicate with customers regarding vehicle issues, costs and make them feel comfortable with potential repairs.
-* Build custom tools and documentation to repair proprietary components designed to be obscured.
+*Software Engineer. [Hilton](https://www.hilton.com/en/). April 2022 to present*
+* Contribute to the development of Connected Room, Hilton's newest guestroom technology platform. 
+* Build backend microservices with Java 11 for room devices that communicate with the Hilton App.
+* Create tools to aggregate service data from MongoDB for evaluation of service failures and performance.
 
 *Tutor. [Mathnasium](https://www.mathnasium.com/northwilmington). March 2013 to June 2018*
 * Evaluated students for a custom learning plan that uses Mathnasium curriculum.
