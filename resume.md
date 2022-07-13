@@ -41,7 +41,7 @@ where it makes sense. My skills are focused around the Java 17 ecosystem.
 ### ***Relevant Experience:***<br>
 
 *Software Engineer. [Hilton](https://www.hilton.com/en/). April 2022 to present*
-* Contribute to the development of Connected Room, Hilton's newest guestroom technology platform. 
+* Contribute to the development of [Connected Room](https://www.hiltonownersportal.com/resource/1567103925000/ConnectedRoomBrochure), Hilton's newest guestroom technology platform. 
 * Build backend microservices with Java 11 for room devices that communicate with the Hilton App.
 * Create tools to aggregate service data from MongoDB for evaluation of service failures and performance.
 
