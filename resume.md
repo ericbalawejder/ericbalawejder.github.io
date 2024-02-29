@@ -40,7 +40,7 @@ are focused around the Java 21 ecosystem.
 * Lead the migration from DocumentDB(MongoDB) to Couchbase to create a better product experience for Connected Room.
 * Create application configuration for test, stage and production environments.
 * Manage SSL certificates and build custom test containers.
-* Build backend services with Java, Dropwizard and Spring Boot in a micro service architecture. 
+* Build backend services with Java, Dropwizard and Spring Boot in a microservice architecture. 
 * Create and maintain an end to end suite of unit and integration tests.
 * Collaborate with the product, business, analytics and QA teams for business, performance and feature requirements.
 * Onboard and mentor other developers.
