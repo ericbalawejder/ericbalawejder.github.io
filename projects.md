@@ -13,14 +13,6 @@ test creation as well as responding to issues. Working on Exercism allows me to 
 asynchronous communication skills, and build a tool that provides educational value.
 <br>
 <br>
-<p align="center"><a href="https://github.com/ericbalawejder/hash-match">Hash-match</a></p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hash-match is a hashing tool. It is used to hash a string or 
-compare the hashes of two files. It provides the option to specify the hashing algorithm to compare with other 
-previous generated hashes. I wanted an all in one tool for creating hashes of Strings, files and comparison of 
-them with a specified algorithm.
-<br>
-<br>
 <p align="center"><a href="https://adventofcode.com/">Advent of Code</a></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advent of Code is enjoyable because each exercise is presented 
